@@ -1,0 +1,10 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Toni Petrina",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  }
+}
